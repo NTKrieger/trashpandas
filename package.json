@@ -9,7 +9,7 @@
     "react-bootstrap": "^1.0.0-beta.16",
     "react-dom": "^16.12.0",
     "react-modal": "^3.11.1",
-    "react-scripts": "0.9.x",
+    "react-scripts": "5.0.x",
     "timeago-react": "^3.0.0"
   },
   "devDependencies": {},
